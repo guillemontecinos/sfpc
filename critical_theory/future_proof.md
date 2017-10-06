@@ -1,0 +1,1 @@
+Qhen the droid who worked at the human technology division of the 1st Era Cemetery decoded the information encripted in JavaScript - the pre-war language in which the old Candy Script was inspired - he read an unaffordable word that was not in his database. The word was love.
