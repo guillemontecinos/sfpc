@@ -1,0 +1,5 @@
+- Arrangement/Session views
+- record audio en session view
+- trim/fades
+- manipulate
+- effects
