@@ -2,18 +2,23 @@
 
 This will be the log of my final project at SFPC.
 
+## Description
 
 
 
 
+## Resources
 
-Useful links:
+### Alumni Feedback session
 
-Scraping:
+### Useful links
+http://blog.manugarri.com/sentiment-analysis-in-spanish/
+
+#### Scraping
 https://github.com/aparrish/dmep-python-intro/blob/master/scraping-html.ipynb
 
-Generative Text:
+#### Generative Text
 
-Examples:
+#### Examples
 - https://en.lipsum.com/
 - https://hipsum.co/
