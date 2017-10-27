@@ -14,8 +14,11 @@ This will be the log of my final project at SFPC.
 
 ### Useful links
 http://blog.manugarri.com/sentiment-analysis-in-spanish/
+
 Generative Manifesto: https://slab.org/the-generative-manifesto-august-2000/
+
 CMU Pronouncing Dictionary: http://www.speech.cs.cmu.edu/cgi-bin/cmudict
+
 Documentation pronouncing.py: http://pronouncing.readthedocs.io/en/latest/
 
 #### Scraping
