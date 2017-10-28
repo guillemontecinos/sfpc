@@ -23,6 +23,8 @@ CMU Pronouncing Dictionary: http://www.speech.cs.cmu.edu/cgi-bin/cmudict
 
 Documentation: https://pypi.python.org/pypi/pronouncing
 
+Documentation: https://pronouncing.readthedocs.io/en/latest/
+
 Github Repo: https://github.com/aparrish/pronouncingpy
 
 #### Scraping
