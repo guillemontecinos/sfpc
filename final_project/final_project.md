@@ -19,7 +19,11 @@ Generative Manifesto: https://slab.org/the-generative-manifesto-august-2000/
 
 CMU Pronouncing Dictionary: http://www.speech.cs.cmu.edu/cgi-bin/cmudict
 
-Documentation pronouncing.py: https://pypi.python.org/pypi/pronouncing
+#### Pronouncing.py
+
+Documentation: https://pypi.python.org/pypi/pronouncing
+
+Github Repo: https://github.com/aparrish/pronouncingpy
 
 #### Scraping
 https://github.com/aparrish/dmep-python-intro/blob/master/scraping-html.ipynb
