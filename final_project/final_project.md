@@ -23,6 +23,9 @@ This will be the log of my final project at SFPC.
 - API: https://pronouncing.readthedocs.io/en/latest/pronouncing.html
 - Github Repo: https://github.com/aparrish/pronouncingpy
 
+#### Markovify.py
+- Github Repo: https://github.com/jsvine/markovify
+
 #### Scraping
 - https://github.com/aparrish/dmep-python-intro/blob/master/scraping-html.ipynb
 
