@@ -13,11 +13,9 @@ This will be the log of my final project at SFPC.
 
 
 ### Useful links
-http://blog.manugarri.com/sentiment-analysis-in-spanish/
-
-Generative Manifesto: https://slab.org/the-generative-manifesto-august-2000/
-
-CMU Pronouncing Dictionary: http://www.speech.cs.cmu.edu/cgi-bin/cmudict
+- http://blog.manugarri.com/sentiment-analysis-in-spanish/
+- Generative Manifesto: https://slab.org/the-generative-manifesto-august-2000/
+- CMU Pronouncing Dictionary: http://www.speech.cs.cmu.edu/cgi-bin/cmudict
 
 #### Pronouncing.py
 - Documentation: https://pypi.python.org/pypi/pronouncing
@@ -26,7 +24,7 @@ CMU Pronouncing Dictionary: http://www.speech.cs.cmu.edu/cgi-bin/cmudict
 - Github Repo: https://github.com/aparrish/pronouncingpy
 
 #### Scraping
-https://github.com/aparrish/dmep-python-intro/blob/master/scraping-html.ipynb
+- https://github.com/aparrish/dmep-python-intro/blob/master/scraping-html.ipynb
 
 #### Generative Text
 
