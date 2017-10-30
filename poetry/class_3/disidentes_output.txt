@@ -1,0 +1,41 @@
+Poema generativo utilizando Python,
+basado en "Disidentes" de Mario Benedetti
+por Guillermo montecinos
+
+Estos son algunos ejemplos generados aleatoriamente:
+
+Los carniceros
+pueden ser violentos
+mentirosos
+y hasta dislexicos
+pero los
+excarniceros
+son siempre
+dislexicos
+
+Los politicos
+pueden ser violentos
+llorones
+y hasta hediondos
+pero los
+expoliticos
+son siempre
+elegantes
+
+Los periodistas
+pueden ser llorones
+mentirosos
+y hasta elegantes
+pero los
+experiodistas
+son siempre
+hediondos
+
+Los carabineros
+pueden ser violentos
+llorones
+y hasta mentirosos
+pero los
+excarabineros
+son siempre
+llorones
