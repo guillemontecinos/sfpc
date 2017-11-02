@@ -32,10 +32,21 @@ Tools:
 * forever.js
 * https://github.com/ledeprogram/data-and-databases/blob/master/Twitter_API.ipynb
 * https://aparrish.neocities.org/twitter.html
-*  https://github.com/aparrish/dmep-python-intro
+* https://github.com/aparrish/dmep-python-intro
 * http://botshop.decontextualize.com/
+* https://github.com/karpathy/char-rnn
+* https://spacy.io/
 
-
+## To do
+* buy printer
+* dictionary building from .json - feasibility
+* dictionary database building
+* translation algorithm
+  * conversion word to word
+  * contextual conversion
+  * textblob/spacy
+* API
+* implement printing algorithm
 
 
 ## Resources
