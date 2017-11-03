@@ -3,12 +3,16 @@
 #by Guillermo Montecinos
 #Thanks to:
 
+import json
+
 with open("resources/trump_wall.txt","r") as f:
     text = f.read()
 
-# Function definition
+################################################################################
+# function definition
+################################################################################
+# sentence checker
 def sentenceCheck(input_string, dictionary):
-    #sentences checker
     words = input_string.split(' ')
     output_string = ''
     for word in words:
@@ -20,10 +24,14 @@ def sentenceCheck(input_string, dictionary):
             output_string += word + ' '
     return output_string
 
-# dictionary
-mapping = {'bad':'good'}
+################################################################################
+# main algorithm
+################################################################################
+
+# loading dictionary
+mapping = json.loads(open('./resources/database.json').read())
 # input
-string = 'Mexicans are bad people'
+string = 'Mexicans are black people'
 
 print 'Input: ' + string
 print 'Output: ' + sentenceCheck(string, mapping)
